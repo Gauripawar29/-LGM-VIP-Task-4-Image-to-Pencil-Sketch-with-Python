@@ -1,2 +1,2 @@
-# -LGM-VIP-Task-4-Image-to-Pencil-Sketch-with-Python
-This is fourth task assigned from LGM-VIP. In this image convert in pencil sketch
+# LGMVIP_Data_Science-Task4Image-to-Pencil-Sketch-with-Python
+This is the fourth task form LGM-VIP. in which convert normal photo into the pencil sketch form 
